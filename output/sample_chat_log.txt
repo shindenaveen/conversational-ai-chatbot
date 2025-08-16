@@ -1,0 +1,5 @@
+User: What are your working hours?
+Bot: Our working hours are 9 AM to 6 PM, Monday to Friday. [faq]
+
+User: Who is the CEO of the company?
+Bot: As of August 2025, the CEO of the company is John Smith. [gpt]
